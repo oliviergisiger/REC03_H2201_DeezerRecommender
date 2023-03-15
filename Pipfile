@@ -5,6 +5,7 @@ name = "pypi"
 
 [packages]
 plotly = "*"
+tensorflow-datasets = "*"
 
 [dev-packages]
 ipykernel = "*"
