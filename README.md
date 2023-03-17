@@ -10,14 +10,15 @@ In order to run the code, train and test csv must be saved in /data directory.
 As the project strongly relies on TensorFlow-Recommenders, please consider its [documentation](https://www.tensorflow.org/recommenders)
 
 
-The paper is submitted directly via ilias and can be found in this repository. 
+The final project report is submitted directly to ilias. 
+The report in the submission folder is listed for completeness but does not include reflexions. 
 
-## Project Structure
+## Project Structure - Submission Branch
 
 ```
-REC03.H2201_DeezerRecommender
+REC03_H2201_DeezerRecommender
 ├── submission/
-│   └── paper.pdf
+│   └── REC03_CourseProjectReport.pdf
 ├── code
 │   ├── explanatory_data_analysis.zip
 │   └── tensorflow_recommender_implicit.ipynb
