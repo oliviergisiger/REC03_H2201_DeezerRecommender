@@ -1,2 +1,4 @@
 # ignore data files
 data/
+.idea/
+.ipynb_checkpoints/
